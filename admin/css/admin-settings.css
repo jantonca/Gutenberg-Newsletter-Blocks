@@ -1,0 +1,23 @@
+a.resetPositionsAjax.button {
+    color: whitesmoke;
+    background-color: #ff6060;
+    border-color: #ff6060;
+}
+a.resetPositionsAjax.button:hover {
+    color: white;
+    background-color: red;
+    border-color: red;
+}
+.nav-tab-wrapper, .wrap h2.nav-tab-wrapper, h1.nav-tab-wrapper {
+    border-bottom: 4px solid black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.nav-tab-wrapper a.button {
+    margin-right: 10px;;
+}
+.nav-tab-wrapper a.button.nav-tab-active {
+    background-color: black;
+    color: whitesmoke;
+    border: none;
+}
